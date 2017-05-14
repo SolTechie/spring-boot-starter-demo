@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+demo.DemoConfig1,demo.DemoConfig2
